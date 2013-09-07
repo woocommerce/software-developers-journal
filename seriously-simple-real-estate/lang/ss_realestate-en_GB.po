@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Seriously Simple Real Estate v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-09-06 10:50:10+0000\n"
+"Last-Translator: Hugh Lashbrooke <hlashbrooke@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: classes/class-seriously-simple-real-estate-settings.php:28
+#: classes/class-seriously-simple-real-estate-settings.php:76
+#@ ss_realestate
+msgid "Property Settings"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate-settings.php:28
+#: classes/class-seriously-simple-real-estate-settings.php:32
+#@ ss_realestate
+msgid "Settings"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate-settings.php:40
+#@ ss_realestate
+msgid "Modify property settings"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate-settings.php:50
+#@ ss_realestate
+msgid "Change these options to customise how your properties are displayed."
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate-settings.php:83
+#@ ss_realestate
+msgid "Save Settings"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:62
+#@ ss_realestate
+msgctxt "post type general name"
+msgid "Properties"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:63
+#@ ss_realestate
+msgctxt "post type singular name"
+msgid "Property"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:64
+#@ ss_realestate
+msgid "Add New"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:65
+#: classes/class-seriously-simple-real-estate.php:115
+#, php-format
+#@ ss_realestate
+msgid "Add New %s"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:65
+#: classes/class-seriously-simple-real-estate.php:66
+#: classes/class-seriously-simple-real-estate.php:67
+#: classes/class-seriously-simple-real-estate.php:69
+#@ ss_realestate
+msgid "Property"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:66
+#: classes/class-seriously-simple-real-estate.php:113
+#, php-format
+#@ ss_realestate
+msgid "Edit %s"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:67
+#, php-format
+#@ ss_realestate
+msgid "New %s"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:68
+#: classes/class-seriously-simple-real-estate.php:110
+#, php-format
+#@ ss_realestate
+msgid "All %s"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:68
+#: classes/class-seriously-simple-real-estate.php:70
+#: classes/class-seriously-simple-real-estate.php:71
+#: classes/class-seriously-simple-real-estate.php:72
+#@ ss_realestate
+msgid "Properties"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:69
+#, php-format
+#@ ss_realestate
+msgid "View %s"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:70
+#: classes/class-seriously-simple-real-estate.php:109
+#, php-format
+#@ ss_realestate
+msgid "Search %s"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:71
+#, php-format
+#@ ss_realestate
+msgid "No %s Found"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:72
+#, php-format
+#@ ss_realestate
+msgid "No %s Found In Trash"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:74
+#@ ss_realestate
+msgctxt "post type menu name"
+msgid "Properties"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:100
+#@ ss_realestate
+msgid "Areas"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:100
+#@ ss_realestate
+msgid "Area"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:101
+#@ ss_realestate
+msgid "Types"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:101
+#@ ss_realestate
+msgid "Type"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:107
+#, php-format
+#@ ss_realestate
+msgctxt "taxonomy general name"
+msgid "%s"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:108
+#, php-format
+#@ ss_realestate
+msgctxt "taxonomy singular name"
+msgid "%s"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:111
+#, php-format
+#@ ss_realestate
+msgid "Parent %s"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:112
+#, php-format
+#@ ss_realestate
+msgid "Parent %s:"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:114
+#, php-format
+#@ ss_realestate
+msgid "Update %s"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:116
+#, php-format
+#@ ss_realestate
+msgid "New %s Name"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:117
+#, php-format
+#@ ss_realestate
+msgctxt "taxonomy menu name"
+msgid "%s"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:188
+#, php-format
+#@ ss_realestate
+msgid "Property updated. %sView property%s."
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:189
+#@ ss_realestate
+msgid "Custom field updated."
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:190
+#@ ss_realestate
+msgid "Custom field deleted."
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:191
+#@ ss_realestate
+msgid "Property updated."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: classes/class-seriously-simple-real-estate.php:193
+#, php-format
+#@ ss_realestate
+msgid "Property restored to revision from %s."
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:194
+#, php-format
+#@ ss_realestate
+msgid "Property published. %sView property%s."
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:195
+#@ ss_realestate
+msgid "Property saved."
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:196
+#, php-format
+#@ ss_realestate
+msgid "Property submitted. %sPreview property%s."
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:197
+#, php-format
+#@ ss_realestate
+msgid "Property scheduled for: %1$s. %2$sPreview property%3$s."
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:197
+#@ ss_realestate
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:198
+#, php-format
+#@ ss_realestate
+msgid "Property draft updated. %sPreview property%s."
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:205
+#@ ss_realestate
+msgid "Property Details"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:289
+#@ ss_realestate
+msgid "Enter the property title here"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate-settings.php:43
+#@ ss_realestate
+msgid "Seatch form title:"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate-settings.php:62
+#@ ss_realestate
+msgid "The title of the property search form."
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:134
+#: classes/class-seriously-simple-real-estate.php:360
+#@ ss_realestate
+msgid "Price:"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:135
+#@ ss_realestate
+msgid "Property price"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:146
+#@ ss_realestate
+msgid "Price"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:305
+#@ ss_realestate
+msgid "All areas"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:313
+#@ ss_realestate
+msgid "All types"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:344
+#@ ss_realestate
+msgid "Property Search"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:355
+#@ ss_realestate
+msgid "AND"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:356
+#@ ss_realestate
+msgid "OR"
+msgstr ""
+
+#: classes/class-seriously-simple-real-estate.php:365
+#@ ss_realestate
+msgid "to"
+msgstr ""
+
