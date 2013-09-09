@@ -317,23 +317,10 @@ class Seriously_Simple_Real_Estate {
 			}
 		}
 
-		$prices = array(
-			100000,
-			200000,
-			300000,
-			400000,
-			500000,
-			750000,
-			1000000,
-			1250000,
-			1500000,
-			1750000,
-			2000000,
-			2250000,
-			2500000,
-			2750000,
-			3000000
-		);
+		$prices = array();
+		for( $i = 250000; $i <= 3500000; $i += 250000 ) {
+			$prices[] = $i;
+		}
 
 		$price_options = '';
 		foreach( $prices as $price ) {
@@ -427,8 +414,8 @@ class Seriously_Simple_Real_Estate {
 		    $query_args['paged'] = $paged;
 
 		    // Check text search string
-		    if( isset( $_GET['s'] ) ) {
-			    $string = esc_attr( $_GET['s'] );
+		    if( get_query_var('s') ) {
+			    $string = esc_attr( get_query_var('s') );
 			    if( $string && strlen( $string ) > 0 ) {
 			    	$query_args['s'] = $string;
 			    } else {
